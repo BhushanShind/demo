@@ -1,5 +1,5 @@
 This is ReadMe
 
-- [contact](/contact)
-- [login](/login)
+- [contact](/contact.md)
+- [login](/login.md)
 
